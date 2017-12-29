@@ -3,7 +3,6 @@
 //  MyApp
 //
 //  Created by Madhu Vanam on 12/29/17.
-//  Copyright © 2017 flex. All rights reserved.
 //
 
 import Foundation
